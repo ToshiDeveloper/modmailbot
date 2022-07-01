@@ -3,7 +3,7 @@
 
 Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.
 
-This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on **[Patreon](https://www.patreon.com/kyber)**, cool benefits included! 
+This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on **[Patreon](https://www.patreon.com/toshidev)**, cool benefits included! 
 
 ## How does it work?
 
@@ -25,7 +25,7 @@ Our Logviewer will save the threads so you can view previous threads through the
   * When you close a thread, Modmail will generate a [log link](https://logs.modmail.dev/example) and post it to your log channel.
   * Native Discord dark-mode feel.
   * Markdown/formatting support.
-  * Login via Discord to protect your logs ([premium Patreon feature](https://patreon.com/kyber)).
+  * Login via Discord to protect your logs ([premium Patreon feature](https://www.patreon.com/toshidev)).
   * See past logs of a user with `?logs`.
   * Searchable by text queries using `?logs search`.
 
@@ -52,14 +52,14 @@ The [**installation guide**](https://github.com/kyb3r/modmail/wiki/Installation)
 
 To configure automatic updates:
  - Login to [GitHub](https://github.com/) and verify your account.
- - [Fork the repo](https://github.com/kyb3r/modmail/fork).
+ - [Fork the repo]().
  - Install the [Pull app](https://github.com/apps/pull) for your fork. 
  - Then go to the Deploy tab in your [Heroku account](https://dashboard.heroku.com/apps) of your bot app, select GitHub and connect your fork (usually by typing "Modmail"). 
  - Turn on auto-deploy for the `master` branch.
 
 ### Hosting for Patreons
 
-If you don't want to go through the trouble of setting up your very own Modmail bot or wish to support this project, we got a solution for you! We offer the complete installation, hosting, and maintenance of your Modmail with [**Patreon**](https://patreon.com/kyber). Join our [Modmail Discord Server](https://discord.gg/etJNHCQ) for more info! 
+If you don't want to go through the trouble of setting up your very own Modmail bot or wish to support this project, we got a solution for you! We offer the complete installation, hosting, and maintenance of your Modmail with [**Patreon**](https://www.patreon.com/toshidev). Join our [Modmail Discord Server](https://discord.gg/etJNHCQ) for more info! 
 
 ### Locally
 
