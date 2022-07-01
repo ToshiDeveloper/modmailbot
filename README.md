@@ -3,46 +3,6 @@
   <br>
   <strong><i>A feature-rich Modmail bot for Discord.</i></strong>
   <br>
-  <br>
-
-  <a href="#">
-  </a>
-
-  <br>
-  
-  <a href="https://heroku.com/deploy?template=https://github.com/kyb3r/modmail">
-    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
-  </a>
-
-  <a href="https://github.com/kyb3r/modmail/">
-    <img src="https://api.modmail.dev/badges/instances.svg" alt="Bot instances">
-  </a>
-
-  <a href="https://discord.gg/j5e9p8w">
-    <img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscord.gg%2F4ua4Cmjftm" alt="Support">
-  </a>
-
-  <a href="https://patreon.com/kyber">
-    <img src="https://img.shields.io/badge/patreon-donate-orange.svg?style=for-the-badge&logo=Patreon" alt="Python 3.7">
-  </a>
-
-  <a href="https://www.python.org/downloads/">
-    <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.7">
-  </a>
-
-  <a href="https://github.com/ambv/black">
-    <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/kyb3r/modmail/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT License">
-  </a>
-
-<br>
-<img src='https://i.imgur.com/fru5Q07.png' align='center' width=500>
-</div>
-
-
 ## What is Modmail?
 
 Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.
