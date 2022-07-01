@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://discord.gg/j5e9p8w">
-    <img src="https://img.shields.io/discord/515071617815019520.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
+    <img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscord.gg%2F4ua4Cmjftm" alt="Support">
   </a>
 
   <a href="https://patreon.com/kyber">
